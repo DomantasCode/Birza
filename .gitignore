@@ -1,0 +1,22 @@
+# Claude Code folder
+.claude/
+
+# CLion IDE
+.idea/
+cmake-build-*/
+
+# Build artifacts
+build/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
